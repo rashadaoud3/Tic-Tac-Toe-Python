@@ -1,3 +1,7 @@
+# Rasha Daoud
+# Created: 21 March 2023
+# Email: rashadaoud134@gmail.com
+
 from tkinter import *
 import random
 
